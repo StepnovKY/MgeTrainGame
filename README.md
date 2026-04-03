@@ -19,5 +19,21 @@
 
 1. Убедись, что у тебя установлен **.NET SDK**.
 2. Клонируй репозиторий:
-   ```bash
-   git clone https://github.com
+    git clone https://github.com
+3.Перейди в директорию проекта:
+    cd MgeTrainGame
+4. Перейди в папку и запусти проект:
+    dotnet run
+
+📜 Цитатник (Game Over Quotes)
+При поражении игра рандомно выбирает одну из классических фраз:
+"НУ-НУ, СОСУНОК!"
+"БРО, НАДО БОЛЬШЕ ТРЕНИРОВАТЬСЯ"
+"STAY MAD, KID"
+
+🛠 Технологии
+Язык: C#
+Платформа: .NET (Console Application)
+MGE BROTHER, RELAX.
+Создано для тренировки скилла и поднятия настроения.
+Maintainer: StepnovKY
